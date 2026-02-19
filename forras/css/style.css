@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(3 114 197);
+}
+
+h1,h2,h3,h4,p{
+    color: rgb(0 61 138);
+}
+
+p{
+    font-family: Arial;
+}
+
+h1,h2,h3,h4{
+    font-family: Rubik Distressed;
+}
+
+h2{
+    font-variant: small-caps;
+}
+
+header{
+    height: 400px;
+    background-image: url(/forras/images/banner.png);
+    text-align: center;
+    background-position-y: -100px;
+}
+
+h1{
+    color: white;
+    font-size: 2rem;
+    border-bottom: 2px white solid;
+    border-top: 2px white solid;
+    padding-top: 340px;
+}
+
+.feher_div{
+    background-color: white;
+    
+}
